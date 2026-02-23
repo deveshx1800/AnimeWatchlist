@@ -29,13 +29,7 @@ A modern iOS app built with **SwiftUI** that allows users to search anime using 
 
 ---
 
-## 📱 Screenshots
 
-### 🔎 Search Screen
-![Search Screen](Screenshots/search.png)
-
-### ⭐ Watchlist Screen
-![Watchlist Screen](Screenshots/watchlist.png)
 
 ---
 
